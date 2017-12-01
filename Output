@@ -1,0 +1,90 @@
+
+Enter custom meal order
+1. Vegie Amount: 5
+2. Gluten Free Amount: 7
+3. Nut Free Amount: 0
+4. Fish Free Amount: 0
+5. Total Meal: 50
+
+
+
+Expected meal orders:
+Restaurant A (4 vegetarian + 36 others)
+Restaurant B (1 vegetarian + 7 gluten free + 2 others)
+
+Process finished with exit code 0
+
+
+
+===
+
+Enter custom meal order
+1. Vegie Amount: 25
+2. Gluten Free Amount: 25
+3. Nut Free Amount: 25
+4. Fish Free Amount: 25
+5. Total Meal: 250
+
+
+
+Expected meal orders:
+Restaurant A (4 vegetarian + 10 nut free + 26 others)
+Restaurant B (20 vegetarian + 20 gluten free + 60 others)
+
+Process finished with exit code 0
+
+
+===
+
+Enter custom meal order
+1. Vegie Amount: 10
+2. Gluten Free Amount: 10
+3. Nut Free Amount: 10
+4. Fish Free Amount: 10
+5. Total Meal: 100
+
+
+
+Expected meal orders:
+Restaurant A (4 vegetarian + 10 nut free + 26 others)
+Restaurant B (6 vegetarian + 10 gluten free + 44 others)
+
+Process finished with exit code 0
+
+
+
+===
+
+Enter custom meal order
+1. Vegie Amount: 10
+2. Gluten Free Amount: 10
+3. Nut Free Amount: 40
+4. Fish Free Amount: 40
+5. Total Meal: 200
+
+
+
+Expected meal orders:
+Restaurant A (4 vegetarian + 10 nut free + 26 others)
+Restaurant B (6 vegetarian + 10 gluten free + 84 others)
+
+Process finished with exit code 0
+
+
+
+===
+
+Enter custom meal order 
+1. Vegie Amount: 20
+2. Gluten Free Amount: 20
+3. Nut Free Amount: 20
+4. Fish Free Amount: 20
+5. Total Meal: 100
+
+
+
+Expected meal orders:
+Restaurant A (4 vegetarian + 10 nut free + 26 others)
+Restaurant B (16 vegetarian + 20 gluten free + 24 others)
+
+Process finished with exit code 0
